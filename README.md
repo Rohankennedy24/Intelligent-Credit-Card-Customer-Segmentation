@@ -353,7 +353,7 @@ The project successfully:
 **Rohan Kennedy**
 
 - B.Tech Artificial Intelligence & Machine Learning
-- Machine Learning | Data Science | Full Stack Development
+- Machine Learning | Data Science 
 
 
 
