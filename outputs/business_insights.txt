@@ -1,0 +1,28 @@
+BUSINESS INSIGHTS
+
+Cluster 0:
+Regular customers with medium spending habits.
+Recommended Strategy:
+- Cashback offers
+- Discount coupons
+
+Cluster 1:
+Premium customers with high balances and frequent transactions.
+Recommended Strategy:
+- Premium credit cards
+- Higher credit limits
+- Exclusive rewards
+
+Cluster 2:
+Customers with very high credit usage and lower repayment rates.
+Recommended Strategy:
+- EMI plans
+- Credit risk monitoring
+- Financial awareness programs
+
+Cluster 3:
+Responsible customers with lower balances and better repayment behavior.
+Recommended Strategy:
+- Loyalty programs
+- Personalized offers
+- Small credit limit increase
